@@ -7,22 +7,7 @@
     "cryptography",
     "crypto",
     "coin",
-    "bitcoin",
-    "bitcoin gold",
-    "litecoin",
-    "viacoin",
-    "groestlcoin",
-    "elliptic",
-    "curve",
-    "dogecoin",
-    "blackcoin",
-    "namecoin",
-    "denarius",
-    "dash",
-    "monacoin",
-    "zcash",
-    "vertcoin",
-    "qtum"
+    "jengascoin"
   ],
   "devDependencies": {
     "standard": "*",
